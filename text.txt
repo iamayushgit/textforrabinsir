@@ -1,0 +1,3 @@
+This is just a simple text to show my work regarding creating github account and using it. This is a .txt file and I can write anything here.
+I will upload this text file into my github account repository using git dash and text editor vs code.
+I hope this much writing will show my work done.
